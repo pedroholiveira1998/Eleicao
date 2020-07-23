@@ -40,4 +40,4 @@ Outro dado importante é que nunca se saberá inicialmente quantos candidatos es
 
 Os nomes cadastrados nesta solução deverão ser apresentados sempre em maiúsculo e sem espaços em branco excessivos (antes ou depois do nome informado). É importante destacar que cada candidato NÃO poderá ser instanciado sem argumentos em seu método construtor. Assim, analise o problema proposto e elabore uma solução adequada a todo conteúdo estudado até o momento em POO, implementando serviços e recursos coerentes com uma solução adequada a este paradigma de programação, além de verificar sempre a entrada de dados para evitar o registro incorreto dos dados exigidos neste enunciado, com informações incoerentes, causando interrupção imediata e incorreta em sua execução. Observe com atenção quantas classes e pacotes são necessários para implementação adequada que está sendo exigida.
 
-Usando o banco de dados foi adicionado a funcionalidade de manter os candidatos cadastrados caso o programa freche inesperadamente.
+Usando o banco de dados foi adicionado a funcionalidade de manter os candidatos cadastrados caso o programa feche inesperadamente.
